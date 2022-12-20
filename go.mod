@@ -2,7 +2,10 @@ module sakuffo/pixl
 
 go 1.19
 
-require fyne.io/fyne/v2 v2.2.4
+require (
+	fyne.io/fyne v1.4.3
+	fyne.io/fyne/v2 v2.2.4
+)
 
 require (
 	github.com/fredbi/uri v0.0.0-20181227131451-3dcfdacbaaf3 // indirect
