@@ -2,10 +2,11 @@ package swatch
 
 import (
 	"image/color"
+
 	"sakuffo/pixl/apptype"
 
-	"fyne.io/fyne/canvas"
 	"fyne.io/fyne/v2"
+	"fyne.io/fyne/v2/canvas"
 	"fyne.io/fyne/v2/widget"
 )
 

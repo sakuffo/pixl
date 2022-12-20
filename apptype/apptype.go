@@ -15,6 +15,8 @@ type PxCanvasConfig struct {
 	PxSize int
 }
 
+// This looks like all the state of the application that should be tracked
+
 type State struct {
 	BrushColor color.Color
 	BrushType int
